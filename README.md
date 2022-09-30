@@ -73,6 +73,9 @@
     <a href="https://www.microsoft.com/en-in/sql-server/sql-server-downloads" rel="nofollow"> <img src="https://camo.githubusercontent.com/0795475ab521318b4426f7f9830c96d246fd15acd98350cf750dfa0bf3b41848/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6d6963726f736f66742d73716c2d7365727665722e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" style="max-width: 100%;"></a>
     <a href="https://pandas.pydata.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" style="max-width: 100%;"> </a> 
     <a href="https://seaborn.pydata.org/" rel="nofollow"> <img src="https://camo.githubusercontent.com/53ae1cb6abbfacfb463f0a0d2fbdb58acad261200cb61f3d32abd7ac0edacded/68747470733a2f2f736561626f726e2e7079646174612e6f72672f5f696d616765732f6c6f676f2d6d61726b2d6c6967687462672e737667" alt="seaborn" width="40" height="40" data-canonical-src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="max-width: 100%;"> </a>
+    <img align="left" alt="Visual Studio Code" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+<img align="left" alt="GCP" width="100px" src="https://user-images.githubusercontent.com/31332352/119158247-07f4ba00-ba24-11eb-842f-38c33c0bd370.png" />
 </p>
  
 <br>
