@@ -74,15 +74,8 @@
     <a href="https://pandas.pydata.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" style="max-width: 100%;"> </a> 
     <a href="https://seaborn.pydata.org/" rel="nofollow"> <img src="https://camo.githubusercontent.com/53ae1cb6abbfacfb463f0a0d2fbdb58acad261200cb61f3d32abd7ac0edacded/68747470733a2f2f736561626f726e2e7079646174612e6f72672f5f696d616765732f6c6f676f2d6d61726b2d6c6967687462672e737667" alt="seaborn" width="40" height="40" data-canonical-src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="max-width: 100%;"> </a>
      <a href="https://code.visualstudio.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="40" height="40" data-canonical-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width: 100%;"> </a>
+    <a href="https://cloud.google.com/" rel="nofollow"> <img src="https://user-images.githubusercontent.com/31332352/119158247-07f4ba00-ba24-11eb-842f-38c33c0bd370.png" alt="Google Cloud Platform" width="40" height="40" data-canonical-src="https://user-images.githubusercontent.com/31332352/119158247-07f4ba00-ba24-11eb-842f-38c33c0bd370.png" style="max-width: 100%;"> </a>
   
-  
-  
-    <img align="left" alt="VSC" width="40" height="40"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"  style="max-width: 100%;"> </a>
-    
-
-<img align="left" alt="GCP" width="100px" src="https://user-images.githubusercontent.com/31332352/119158247-07f4ba00-ba24-11eb-842f-38c33c0bd370.png" />
-</p>
- 
 <br>
 
 <h2 dir="auto"><a id="user-content-github-stats" class="anchor" href="#github-stats" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/6324b8a2d7c4e78c6271e5bdb479001f501fe1108cdd4a0563d5b08758feb0c4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a434e36463346416b7773794f47553252532f67697068792e676966"><img src="https://camo.githubusercontent.com/6324b8a2d7c4e78c6271e5bdb479001f501fe1108cdd4a0563d5b08758feb0c4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a434e36463346416b7773794f47553252532f67697068792e676966" width="60" style="max-width: 100%;"></a>Github Stats:</h2>
