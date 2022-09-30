@@ -39,19 +39,19 @@
         </span>
       </span></animated-image></p>
 
- - :eyes: Looking forward to make my mark into <b> Data Analytics field.</b>..
+ - :eyes: Looking to apply my mark into <b> Data Analytics field.</b>
  
- - :telescope: I’m currently working on <b> Machine Learning skills.</b>.
+ - :telescope: I’m currently learning <b> Machine Learning .</b>.
  
- - :seedling: I’m enthusiatic about finding the intricacies in the data.
+ - :seedling: Have an knack to notice pattern / trends in data.
  
 
  
  - <p dir="auto"><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png"><img class="emoji" alt="man_technologist" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png"></g-emoji> All of my projects are available at <a href="https://github.com/TejasK1906?tab=repositories"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="TejasK1906" height="30" width="40" style="max-width: 100%;"></a></p>
  
- - :thinking: Passionate to draw meaningful insights from the data.
+ - :thinking: Passionate to visualize insights and getting insights from the data.
  
- - :mailbox: Contact me through <strong> <a href="https://www.linkedin.com/in/tejas-natani-6b202a196/" rel="nofollow" >LinkedIn</a></strong>.
+ - :mailbox: Contact me through <strong> <a href="www.linkedin.com/in/tejas95" rel="nofollow" >LinkedIn</a></strong>.
  
  
  
