@@ -13,7 +13,7 @@
 </h3>
  
  <h2>
-  <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="50"> About Me :
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> About Me :
 </h2>
 <p>
 <animated-image data-catalyst="" style="float: right; width: 400px;">
