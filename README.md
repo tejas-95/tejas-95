@@ -63,6 +63,7 @@
  
  
  <p align="center" dir="auto">  
+    <a href="https://cloud.google.com/" rel="nofollow"> <img src="https://user-images.githubusercontent.com/31332352/119158247-07f4ba00-ba24-11eb-842f-38c33c0bd370.png" alt="Google Cloud Platform" width="40" height="40" data-canonical-src="https://user-images.githubusercontent.com/31332352/119158247-07f4ba00-ba24-11eb-842f-38c33c0bd370.png" style="max-width: 100%;"> </a>
     <a href="https://www.python.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/24303cd2424a9a9c092cb6f3108ae66c45d827c3bb8cac57c93c1831c058e43f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f707974686f6e2e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/python.png" style="max-width: 100%;"> </a>
     <a href="https://www.tableau.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/5ec27fde53fbb427ce369ca9b22f002f1d7c082e08480bd929eeecdc58e8e8d7/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f7461626c6561752d736f6674776172652e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/tableau-software.png" style="max-width: 100%;"></a> 
     <a href="https://www.mysql.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/149029be5d632d26129278083a0e1f965fe112b27bb184c0d851a943816a7ee5/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f35302f3030303030302f6d7973716c2d6c6f676f2e706e67" data-canonical-src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" style="max-width: 100%;"> </a>
@@ -73,7 +74,6 @@
     <a href="https://pandas.pydata.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" style="max-width: 100%;"> </a> 
     <a href="https://seaborn.pydata.org/" rel="nofollow"> <img src="https://camo.githubusercontent.com/53ae1cb6abbfacfb463f0a0d2fbdb58acad261200cb61f3d32abd7ac0edacded/68747470733a2f2f736561626f726e2e7079646174612e6f72672f5f696d616765732f6c6f676f2d6d61726b2d6c6967687462672e737667" alt="seaborn" width="40" height="40" data-canonical-src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="max-width: 100%;"> </a>
      <a href="https://code.visualstudio.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="40" height="40" data-canonical-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width: 100%;"> </a>
-    <a href="https://cloud.google.com/" rel="nofollow"> <img src="https://user-images.githubusercontent.com/31332352/119158247-07f4ba00-ba24-11eb-842f-38c33c0bd370.png" alt="Google Cloud Platform" width="40" height="40" data-canonical-src="https://user-images.githubusercontent.com/31332352/119158247-07f4ba00-ba24-11eb-842f-38c33c0bd370.png" style="max-width: 100%;"> </a>
   
 <br>
 
