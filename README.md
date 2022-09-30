@@ -5,7 +5,7 @@
 
 <h1 align = "center">
   Hi
-  <img src="<iframe src="https://giphy.com/embed/l4KifuM5FMAYEXc6Q" width="480" height="427" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/uofcalifornia-transplant-kidney-organ-l4KifuM5FMAYEXc6Q">via GIPHY</a></p>" width="30px"/> I'm Tejas Ingle.
+  <img src="<iframe src="" width="30px"/> I'm Tejas Ingle.
 </h1>
 
 <h3  align = "center">
