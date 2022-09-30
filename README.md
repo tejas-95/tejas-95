@@ -9,7 +9,7 @@
 </h1>
 
 <h3  align = "center">
- <b>I'm an aspiring Data Analyst with keen interest in handling and manipulating the data and providing the best possible insight on the same.</b>
+ <b>Seeking to maintain a full-time position that offers professional challenges utilizing  interpersonal skills, excellent time management and problem-solving skills.</b>
 </h3>
  
  <h2>
