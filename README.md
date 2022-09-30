@@ -18,7 +18,7 @@
 <p>
 <animated-image data-catalyst="" style="float: right; width: 400px;">
 <a target="_blank" rel="noopener noreferrer" href="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" data-target="animated-image.originalLink">
-<img align="right" alt="Coding" height="300" width = "450" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" data-canonical-src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img align="right" alt="Coding" height="300" width = "450" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" data-canonical-src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </a>
         <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play Coding"></button>
         <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls">
