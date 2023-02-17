@@ -41,8 +41,6 @@
 
  - :eyes: Looking to apply my mark into <b> Data Analytics field.</b>
  
- - :telescope: I’m currently learning <b> Machine Learning .</b>.
- 
  - :seedling: Have an knack to notice pattern / trends in data.
  
 
